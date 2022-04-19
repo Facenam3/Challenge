@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+#button {
+    text-align: center;
+    margin: 20px;
+}
+
+.clear-fix {
+    clear: both;
+}
+
+.load {
+    width: 150px;
+    height: 100px;
+    padding: 20px;
+    margin-top: 20px;
+    font-weight: bolder;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    text-transform: uppercase;
+}
+
+
+
+article {
+    width: 47%;
+    height: 750px;
+    border: 1px solid black;
+    padding: 30px;
+    margin: auto;
+    float: left;
+}
+
+
+
+#card-item {
+    margin: 10px;
+    padding: 10px;;
+}
+
+
+article.profile-info {
+    padding: 10px;
+    width: 130px;
+    height: 130px;
+    float: left;
+    margin: 20px;
+}
+
+.card-img {
+    width: 99%;
+    height: 400px;
+    margin: 2px;
+}
+
+.prof-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    float: left;
+    margin: 10px;
+}
+
+.info {
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    height: 100px;
+    float: left;
+}
+
+.instagram-logo{
+    width: 30px;
+    height: 30px;
+    display: inline;
+    float: right;
+    padding-top: 50px;
+    padding-right: 10px;
+}
+
+article .heart-btn{
+    width: 50px;
+    float: left;
+}
+
